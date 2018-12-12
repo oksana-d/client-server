@@ -1,0 +1,12 @@
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.Form1.resources
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.Properties.Resources.resources
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.csproj.GenerateResource.cache
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.csproj.CoreCompileInputs.cache
+D:\3kurs\Osnovy_PI\server_window\server_window\bin\Debug\server_window.exe.config
+D:\3kurs\Osnovy_PI\server_window\server_window\bin\Debug\server_window.exe
+D:\3kurs\Osnovy_PI\server_window\server_window\bin\Debug\server_window.pdb
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.exe
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.pdb
+D:\3kurs\Osnovy_PI\server_window\server_window\bin\Debug\SimpleTCP.dll
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.csproj.CopyComplete
+D:\3kurs\Osnovy_PI\server_window\server_window\obj\Debug\server_window.csprojAssemblyReference.cache
